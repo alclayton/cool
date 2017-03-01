@@ -1,0 +1,50 @@
+.background {
+	background-color: black;
+	width: 1200px;
+	height: 300px;
+	margin: 0 auto;
+}
+
+.icon {
+	border: 1px solid white;
+	background-color: black;
+	width: 60px;
+	height: 60px;
+	
+}
+
+.top {
+	position: relative;
+	top: 205px;
+	left: 100px;
+}
+
+.middle {
+	position: relative;
+	top: 205px;
+	left: 225px;
+}
+
+.right {
+	position: relative;
+	top: 205px;
+	left: 350px;
+}
+
+.one {
+	position: relative;
+	top: 20px;
+	left: 600px;
+}
+
+.two {
+	position: relative;
+	top: 20px;
+	left: 650px;
+}
+
+.three {
+	position: relative;
+	top: 20px;
+	left: 700px;
+}
